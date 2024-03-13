@@ -24,10 +24,10 @@ In this section, we'll introduce the following concepts:
 > Learn about Lookup tables and the search operators you can use with them.
 
 #### Live Tail
-Real-time live feed of log events associated with a Source or Collector.
+> Real-time live feed of log events associated with a Source or Collector.
 
 #### Behavior Insights
-Gain behavioral insight of your environment using LogReduce operators.
+> Gain behavioral insight of your environment using LogReduce operators.
 
 #### Subqueries
 > Filter and evaluate conditions for a query when you may not be sure of the exact filter.
