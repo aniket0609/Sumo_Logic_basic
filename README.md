@@ -3,7 +3,7 @@
 Log Search allows you to query and analyze log data sent to Sumo Logic. There are many features to help you use our robust Search Query Language, such as LogCompare, LogReduce, LogExplain, Lookup Tables, Subqueries, and Time Compare. See Get Started with Search to begin exploring your data in Sumo Logic.
 
 ## Guides
-In this section, we'll introduce the following concepts:
+> In this section, we'll introduce the following concepts:
 
 #### Getting started with Log Search
 Start here to begin exploring your data in Sumo Logic.
