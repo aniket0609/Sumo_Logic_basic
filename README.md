@@ -27,7 +27,7 @@ Feel free to contribute by adding your own notes, examples, or suggesting improv
 - [Sumo Logic Documentation](https://help.sumologic.com/)
 - [Sumo Logic Community](https://community.sumologic.com/s/)
 - [Sumo Logic Tutorials](https://www.sumologic.com/tutorials/)
-- [https://help.sumologic.com/docs/search/]
+- (https://help.sumologic.com/docs/search/)
 
 ## Contributors
 
