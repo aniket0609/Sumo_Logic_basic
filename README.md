@@ -2,6 +2,8 @@
 
 Welcome to the SumoLogic Fundamentals repository! This repository is dedicated to helping you build a strong foundational understanding of Sumo Logic, a cloud-based log management and analytics service.
 
+<img src="https://github.com/aniket0609/Sumo_Logic_basic/blob/master/images/sumo-logic-cybersecurity.jpg?raw=true" width="100%" height="100%">
+
 ## Purpose
 
 The purpose of this repository is to provide resources, notes, and examples to assist you in learning the fundamentals of Sumo Logic. Whether you're new to Sumo Logic or looking to deepen your knowledge, you'll find valuable content here to help you along your journey.
