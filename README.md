@@ -1,4 +1,4 @@
-# SumoLogic Fundamentals
+# SumoLogic Fundamentals Search
 
 Welcome to the SumoLogic Fundamentals repository! This repository is dedicated to helping you build a strong foundational understanding of Sumo Logic, a cloud-based log management and analytics service.
 
@@ -27,6 +27,7 @@ Feel free to contribute by adding your own notes, examples, or suggesting improv
 - [Sumo Logic Documentation](https://help.sumologic.com/)
 - [Sumo Logic Community](https://community.sumologic.com/s/)
 - [Sumo Logic Tutorials](https://www.sumologic.com/tutorials/)
+- [https://help.sumologic.com/docs/search/]
 
 ## Contributors
 
